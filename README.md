@@ -14,8 +14,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 * **Name:** JOHNMARK FABICULANAN
-* **Course/Section:** **BSIT-4-K
-* **Instructor:** ** Jenkielyn Torres
+* **Course/Section:** *BSIT-4-K*
+* **Instructor:** *Jenkielyn Torres*
 * **School Year:** 2026–2027
 
 ## 📖 Key Concepts Covered
