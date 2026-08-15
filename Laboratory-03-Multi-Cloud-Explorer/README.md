@@ -125,4 +125,3 @@ The `images` folder contains screenshots of:
 
 ---
 
-# Official Sources
