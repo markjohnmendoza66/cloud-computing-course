@@ -31,24 +31,6 @@ Azure provides cloud and hybrid solutions with strong integration with Microsoft
 
 Google Cloud provides services for computing, storage, data analytics, artificial intelligence, machine learning, and Kubernetes.
 
----
-
-# Cloud Console Evidence
-
-## AWS
-
-![AWS Console](images/aws-console.png)
-
-## Microsoft Azure
-
-![Azure Portal](images/azure-portal.png)
-
-## Google Cloud
-
-![Google Cloud Console](images/gcp-console.png)
-
----
-
 # Linux Investigation
 
 A Linux environment was accessed through KillerCoda to examine basic server information.
