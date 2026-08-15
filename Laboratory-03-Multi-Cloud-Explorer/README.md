@@ -113,7 +113,7 @@ This mission demonstrated that AWS, Azure, and Google Cloud provide many similar
 
 # Evidence Files
 
-The `images` folder contains screenshots of:
+The `screenshots` folder contains screenshots of:
 
 * AWS Management Console
 * Microsoft Azure Portal
